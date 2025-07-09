@@ -32,7 +32,7 @@ const CircularProgressBar = ({ percentage }) => {
 
         {/* Foreground Circle (Progress) */}
         <circle
-          stroke="#ff0022"
+          stroke="#01a435"
           fill="transparent"
           strokeWidth={stroke}
           strokeLinecap="round"
